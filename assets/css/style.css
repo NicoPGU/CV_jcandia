@@ -2,7 +2,9 @@ nav {
     background-color: rgb(71, 42, 15);
 }
 section img {
-    width: 20%;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
     margin-left: 40%;
 }
 body {
